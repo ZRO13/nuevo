@@ -190,7 +190,7 @@ otros:{alimentos:{favoritos:{
 console.log(perro.otros.alimentos.favoritos.comida)
 
 
-
+frefefwefefe
 
 
 
