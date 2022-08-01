@@ -59,7 +59,7 @@
 
 // nombre="teodoro";
 // if (nombre=="teodoro") {alert("te llaMAS teodoro yo tambien loco"); }
-// else if (nombre=="pedro") {alert("te llamas igual q mi tio");}
+// else if (nombre=="pedro") {alert("te llamas igual q mi tiod");}
 
 
 
