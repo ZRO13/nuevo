@@ -1,5 +1,5 @@
 AAQ
-
+LET C= 'SOMEDAY I WILL BE A PROGAMER CAUSE I BELIVE ON ME'
 // let nombre = prompt("cual es su nombre?");
 // if (nombre=="julito") {alert("eres ekl usuario numero1000");}
 // else if (nombre=="pablito") {alert("pablo volviste a entrar a nuestra pagina a buscar algo");s}
